@@ -15,7 +15,8 @@ A simple web interface for text encryption using HTML, CSS, and JavaScript. This
 
 To run the project locally, follow these steps:
 
-1. Clone the repository to your local machine using the following command:  `git clone https://github.com/Wesam-1110111/Encryption_by_Front-end.git`
+1. Clone the repository to your local machine using the following command:  
+    `git clone https://github.com/Wesam-1110111/Encryption_by_Front-end.git`
 2. Open the cloned folder on your local machine.
 3. Open the `coding.html` file in your browser to start using the interface.
 
