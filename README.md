@@ -25,8 +25,9 @@ To run the project locally, follow these steps:
 1. Enter the text you wish to encrypt *Text* input field.
 2. Enter coding kay that you want to use *coding kay* input field.
     - **Coding kays: for EN: [code0, code2, code3], for AR: [acode1]**
+    <img src="Sreenshots/ScreenShot-2.png">
 3. To decrypt go to `decoding.html` in Navbar.
-
+    <img src="Screenshots/ScreenShot-4.png">
 
 ### Contributing:
 Contributions are welcome! If you'd like to participate, you can open an Issue or submit a Pull Request.
