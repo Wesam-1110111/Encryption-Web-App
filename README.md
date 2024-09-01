@@ -1,5 +1,5 @@
 # Encryption-Web-App
-<img src="Screenshots/ScreenShot">
+<img src="Screenshots/ScreenShot.png">
 
 ### Description:
 A simple web interface for text encryption using HTML, CSS, and JavaScript. This project allows users to input text and encrypt it using a specific algorithm to obtain the encrypted text.
