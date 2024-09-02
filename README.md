@@ -1,5 +1,6 @@
 # Encryption-Web-App
 <img src="Screenshots/ScreenShot.png">
+[![HTML 5](https://img.shields.io/badge/HTML-5-orange)](https://en.wikipedia.org/wiki/HTML5)
 
 ### Description:
 A simple web interface for text encryption using HTML, CSS, and JavaScript. This project allows users to input text and encrypt it using a specific algorithm to obtain the encrypted text.
