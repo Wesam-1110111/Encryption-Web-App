@@ -1,8 +1,7 @@
 # Encryption-Web-App
 <img src="Screenshots/ScreenShot.png">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange">
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-blue">
+<img alt="HTML" src="https://img.shields.io/badge/HTML_5-orange"><img alt="CSS" src="https://img.shields.io/badge/CSS_3-blue"><img alt="JS" src="https://img.shields.io/badge/JavaScript-yallow">
 
 
 ### Description:
