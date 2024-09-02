@@ -1,7 +1,8 @@
 # Encryption-Web-App
 <img src="Screenshots/ScreenShot.png">
-![Static Badge](https://img.shields.io/badge/HTML-5-orange)
-![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/HTML-5-orange)  
+![Static Badge](https://img.shields.io/badge/HTML5-orange)  
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange">
 
 
 ### Description:
