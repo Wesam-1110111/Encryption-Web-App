@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
     git clone https://github.com/Wesam-1110111/Encryption-Web-App.git
     ```
 3. Open the cloned folder on your local machine.
-4. Open the `coding.html` file in your browser to start using the interface.
+4. Open the `index.html` file in your browser to start using the interface.
 
 
 ### Usage:
