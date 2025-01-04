@@ -29,6 +29,9 @@ To run the project locally, follow these steps:
 3. Open the cloned folder on your local machine.
 4. Open the `index.html` file in your browser to start using the interface.
 
+### Try it now:
+
+You can run it now on GitHub pages. [run](https://wesam-1110111.github.io/Encryption-Web-App/index.html)
 
 ### Usage:
 1. Enter the text you wish to encrypt *Text* input field.
