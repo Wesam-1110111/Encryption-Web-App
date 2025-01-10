@@ -1,4 +1,4 @@
-# Encryption-Web-App
+# Encryption Web App - EWA
 <img src="Screenshots/ScreenShot.png">
 
 
