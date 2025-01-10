@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:  
     ```bash
-    git clone https://github.com/Wesam-1110111/Encryption-Web-App.git
+    git clone https://github.com/Wesam-1110111/EWA.git
     ```
 3. Open the cloned folder on your local machine.
 4. Open the `index.html` file in your browser to start using the interface.
