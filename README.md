@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 ### Try it now:
 
-You can run it now on GitHub pages. [run](https://wesam-1110111.github.io/Encryption-Web-App/index.html)
+You can run it now on GitHub pages. [run](https://wesam-1110111.github.io/EWA/)
 
 ### Usage:
 1. Enter the text you wish to encrypt *Text* input field.
